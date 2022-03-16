@@ -1,0 +1,14 @@
+Jak korzystać:
+- Wypakuj archiwum w miejsce gdzie nie będzie ci przeszkadzać
+- Uruchom plik matemaks-cracked.html w przeglądarce, możesz dodać go do zakładki żeby nie szukać po folderach
+- Jeżeli chcesz zrobić skrót do strony na pulpicie, nie kopiuj tam pliku. Klkinij go prawym > wyślij > utwórz skrót na pulpicie
+
+Co mam robić gdy strona przekierowuje mnie na oryginalną stronę?
+- Wyczyść pliki cookies związane za stroną www.matemaks.pl
+- Zrestartuj przeglądarkę
+- Wyczyść cache przeglądarki
+
+Co zmieniło się względem poprzedniej wersji?
+- Działa numeracja zadań
+- Nie ma już powiadomienia o plikach cookies
+- Generator zadań został przepisany, nie ma limitu generowania zadań i nawet działa.
