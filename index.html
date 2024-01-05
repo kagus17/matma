@@ -9,6 +9,9 @@
   <body>
     <button id="but">Matura</button>
   </body>
+  <body>
+    <button id="but1">Kurs</button>
+  </body>
 </html>
 <script>
 document.getElementById('but').addEventListener('click', () => {
@@ -16,6 +19,13 @@ document.getElementById('but').addEventListener('click', () => {
 
     if (leaveRoom) {
       window.location = 'matemaks-cracked.html';
+    }
+  });
+  document.getElementById('but1').addEventListener('click', () => {
+    var leaveRoom = confirm('Idziemy stąd?');
+
+    if (leaveRoom) {
+      window.location = 'KURS - matura podstawowa 2024.html';
     }
   });
 </script>
